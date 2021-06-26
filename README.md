@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://assets.pinterest.com/ext/embed.html?id=375206212679520360" height="359" width="345" frameborder="0"></iframe>)](https://github.com/subhasishsenapati)
+[![MasterHead](http://gph.is/2c6p4F1)](https://github.com/subhasishsenapati)
 <h1 align="center">Hi 👋, I'm Subhasish Senapati</h1>
 <h3 align="center">A passionate web and android app developer.</h3>
 
