@@ -1,6 +1,7 @@
-[![MasterHead](http://gph.is/2c6p4F1)](https://github.com/subhasishsenapati)
 <h1 align="center">Hi 👋, I'm Subhasish Senapati</h1>
 <h3 align="center">A passionate web and android app developer.</h3>
+
+<img src="http://gph.is/2c6p4F1" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhasishsenapati&label=Profile%20views&color=0e75b6&style=flat" alt="subhasishsenapati" /> </p>
 
