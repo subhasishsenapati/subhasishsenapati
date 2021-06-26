@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web and android app developer.</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" >
+<img src="https://media.giphy.com/media/l41lOKyKOS89YyJfq/giphy.gif" >
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhasishsenapati&label=Profile%20views&color=0e75b6&style=flat" alt="subhasishsenapati" /> </p>
