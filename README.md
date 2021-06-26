@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhasish Senapati</h1>
 <h3 align="center">A passionate web and android app developer.</h3>
 
-<img align="center" height="340px" width="400px" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif">
+<p align="center">
+<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" >
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhasishsenapati&label=Profile%20views&color=0e75b6&style=flat" alt="subhasishsenapati" /> </p>
 
