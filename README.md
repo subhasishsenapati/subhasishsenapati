@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Subhasish Senapati</h1>
+<p align="center">
+<img src="text.gif" >
+</p>
 <h3 align="center">A passionate web and android app developer.</h3>
 
 <p align="center">
